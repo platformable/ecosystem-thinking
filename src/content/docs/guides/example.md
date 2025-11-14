@@ -3,6 +3,8 @@ title: Ecosystem Design Thinking Guide
 description: A guide to strategising and participating in open digital ecosystems 
 ---
 
+Let's test this!
+
 You can use ecosystem design thinking at a range of levels:
 - to map a global open digital ecosystem for an industry sector
 - to map a cdountry-level open digital ecosystem for an industry sector or a sub-sector within an industry
