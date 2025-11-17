@@ -1,5 +1,5 @@
 ---
-title: Ecosystem Design Thinking Guide
+title: AI and new technologies
 description: A guide to strategising and participating in open digital ecosystems 
 ---
 
